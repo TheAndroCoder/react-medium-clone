@@ -1,5 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 The project is deployed with firebase hosting and can be accessed at [Medium Clone](https://medium-clone-3410e.web.app/).
+### Configuration
+Create a firebase project and choose cloud firestore as the database and enable email+password signin in authentication options.<br>
+Download the config file from firebase and paste it inside a file named 'firebase.json' and place this file in the src folder.
 ## Available Scripts
 
 In the project directory, you can run:
