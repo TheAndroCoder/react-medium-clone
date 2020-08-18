@@ -1,0 +1,16 @@
+.chip{
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 20px;
+    margin:5px 10px;
+    transition: 0.3s;
+}
+.chip:hover{
+    cursor: pointer;
+    background-color: lightgray;
+    color: black;
+}
+.chip strong{
+    background-color: transparent;
+    margin:0 5px;
+}
