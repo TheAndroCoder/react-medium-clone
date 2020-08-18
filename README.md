@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+The project is deployed with firebase hosting and can be accessed at [Medium Clone](https://medium-clone-3410e.web.app/).
 ## Available Scripts
 
 In the project directory, you can run:
