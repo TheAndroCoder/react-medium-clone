@@ -56,7 +56,7 @@ function WritePost() {
             authorName:user.displayName,
             category:'Programming',
             content:content,
-            date:firebase.firestore.Timestamp.now(),
+            date:new Date().toDateString(),
             image:image,
             title:title
           }).then(()=>{
