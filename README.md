@@ -4,7 +4,7 @@ The project is deployed with firebase hosting and can be accessed at [Medium Clo
 ### Website Landing page
 <img src="https://github.com/TheAndroCoder/react-medium-clone/blob/master/Screen%20Shot%202020-08-19%20at%203.07.43%20PM.png" width="100%" height="100%"/>
 <hr>
-### Configuration
+<h3>Configuration</h3>
 Create a firebase project and choose cloud firestore as the database and enable email+password signin in authentication options.<br>
 Download the config file from firebase and paste it inside a file named 'firebase.json' and place this file in the src folder.
 ## Available Scripts
