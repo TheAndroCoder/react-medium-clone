@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 The project is deployed with firebase hosting and can be accessed at [Medium Clone](https://medium-clone-3410e.web.app/).
+
+### Website Landing page
+<img src="https://github.com/TheAndroCoder/react-medium-clone/blob/master/Screen%20Shot%202020-08-19%20at%203.07.43%20PM.png" width="100%" height="100%"/>
 ### Configuration
 Create a firebase project and choose cloud firestore as the database and enable email+password signin in authentication options.<br>
 Download the config file from firebase and paste it inside a file named 'firebase.json' and place this file in the src folder.
