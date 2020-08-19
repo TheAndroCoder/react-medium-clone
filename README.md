@@ -4,7 +4,7 @@ The project is deployed with firebase hosting and can be accessed at [Medium Clo
 ### Website Landing page
 <img src="https://github.com/TheAndroCoder/react-medium-clone/blob/master/Screen%20Shot%202020-08-19%20at%203.07.43%20PM.png" width="100%" height="100%"/>
 <hr>
-<h3>Website Homke page</h3>
+<h3>Website Home page</h3>
 <img src="https://github.com/TheAndroCoder/react-medium-clone/blob/master/Screen%20Shot%202020-08-19%20at%203.15.10%20PM.png" width="100%" height="100%"/>
 <hr>
 <h3>Configuration</h3>
